@@ -1,1 +1,1 @@
-# gatech_homeworks
+# gatech_projects_assignments
